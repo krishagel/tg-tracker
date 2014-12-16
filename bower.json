@@ -1,0 +1,25 @@
+{
+  "name": "tg-tracker",
+  "version": "0.1.0",
+  "authors": [
+    "Kris Hagel <kris@hatrackgroup.com>"
+  ],
+  "description": "eye control for browser based tasks",
+  "main": "index.html",
+  "keywords": [
+    "tracking.js",
+    "eye-tracking"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "tracking.js": "~1.1.0"
+  }
+}

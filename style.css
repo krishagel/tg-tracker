@@ -1,0 +1,13 @@
+body {
+  padding-top: 50px;
+}
+.video-holder {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+video, canvas {
+  margin-left: -510px;
+  margin-top: -40px;
+  position: absolute;
+}
